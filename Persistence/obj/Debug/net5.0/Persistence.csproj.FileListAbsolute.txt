@@ -1,0 +1,15 @@
+C:\Users\isaac.orah\Desktop\nextJs\React\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Users\isaac.orah\Desktop\nextJs\React\Persistence\bin\Debug\net5.0\Persistence.dll
+C:\Users\isaac.orah\Desktop\nextJs\React\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+C:\Users\isaac.orah\Desktop\nextJs\React\Persistence\bin\Debug\net5.0\Persistence.pdb
+C:\Users\isaac.orah\Desktop\nextJs\React\Persistence\bin\Debug\net5.0\Domain.dll
+C:\Users\isaac.orah\Desktop\nextJs\React\Persistence\bin\Debug\net5.0\Domain.pdb
+C:\Users\isaac.orah\Desktop\nextJs\React\Persistence\obj\Debug\net5.0\Persistence.csprojAssemblyReference.cache
+C:\Users\isaac.orah\Desktop\nextJs\React\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaac.orah\Desktop\nextJs\React\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\isaac.orah\Desktop\nextJs\React\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\Users\isaac.orah\Desktop\nextJs\React\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\isaac.orah\Desktop\nextJs\React\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+C:\Users\isaac.orah\Desktop\nextJs\React\Persistence\obj\Debug\net5.0\Persistence.dll
+C:\Users\isaac.orah\Desktop\nextJs\React\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+C:\Users\isaac.orah\Desktop\nextJs\React\Persistence\obj\Debug\net5.0\Persistence.pdb
