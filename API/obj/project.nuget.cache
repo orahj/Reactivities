@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4RWUj2MhNu8Jn7ZV3JGQyOIHj8XwX3MJY/Lv+B47XCRq/ovRej0MbtJJho1SImLty6yacaBkJlRhY5D/sUde8A==",
+  "dgSpecHash": "DoiKRTEp41dkaevW+8/P8gbqm2dxoRvo5192lw0Flnvu72Tchtfk0bRlFRmu9C7pkGppk1SQvOyT53yKHdos8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\isaac.orah\\Desktop\\nextJs\\React\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\isaac.orah\\Documents\\GitHub\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\isaac.orah\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\isaac.orah\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

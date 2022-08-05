@@ -1,25 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\isaac.orah\\Desktop\\nextJs\\React\\Application\\Application.csproj": {}
+    "C:\\Users\\isaac.orah\\Documents\\GitHub\\Reactivities\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\isaac.orah\\Desktop\\nextJs\\React\\Application\\Application.csproj": {
+    "C:\\Users\\isaac.orah\\Documents\\GitHub\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isaac.orah\\Desktop\\nextJs\\React\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\isaac.orah\\Documents\\GitHub\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\isaac.orah\\Desktop\\nextJs\\React\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\isaac.orah\\Documents\\GitHub\\Reactivities\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\isaac.orah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isaac.orah\\Desktop\\nextJs\\React\\Application\\obj\\",
+        "outputPath": "C:\\Users\\isaac.orah\\Documents\\GitHub\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\isaac.orah\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -32,11 +32,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\isaac.orah\\Desktop\\nextJs\\React\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\isaac.orah\\Desktop\\nextJs\\React\\Domain\\Domain.csproj"
+              "C:\\Users\\isaac.orah\\Documents\\GitHub\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\isaac.orah\\Documents\\GitHub\\Reactivities\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\isaac.orah\\Desktop\\nextJs\\React\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\isaac.orah\\Desktop\\nextJs\\React\\Persistence\\Persistence.csproj"
+              "C:\\Users\\isaac.orah\\Documents\\GitHub\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\isaac.orah\\Documents\\GitHub\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -75,26 +75,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\isaac.orah\\Desktop\\nextJs\\React\\Domain\\Domain.csproj": {
+    "C:\\Users\\isaac.orah\\Documents\\GitHub\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isaac.orah\\Desktop\\nextJs\\React\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\isaac.orah\\Documents\\GitHub\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\isaac.orah\\Desktop\\nextJs\\React\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\isaac.orah\\Documents\\GitHub\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\isaac.orah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isaac.orah\\Desktop\\nextJs\\React\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\isaac.orah\\Documents\\GitHub\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\isaac.orah\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -133,26 +133,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\isaac.orah\\Desktop\\nextJs\\React\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\isaac.orah\\Documents\\GitHub\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isaac.orah\\Desktop\\nextJs\\React\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\isaac.orah\\Documents\\GitHub\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\isaac.orah\\Desktop\\nextJs\\React\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\isaac.orah\\Documents\\GitHub\\Reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\isaac.orah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isaac.orah\\Desktop\\nextJs\\React\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\isaac.orah\\Documents\\GitHub\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\isaac.orah\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -165,8 +165,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\isaac.orah\\Desktop\\nextJs\\React\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\isaac.orah\\Desktop\\nextJs\\React\\Domain\\Domain.csproj"
+              "C:\\Users\\isaac.orah\\Documents\\GitHub\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\isaac.orah\\Documents\\GitHub\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
@@ -205,7 +205,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
