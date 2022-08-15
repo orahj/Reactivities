@@ -140,4 +140,7 @@ C:\Users\isaac.orah\Documents\GitHub\Reactivities\API\bin\Debug\net5.0\API.runti
 C:\Users\isaac.orah\Documents\GitHub\Reactivities\API\bin\Debug\net5.0\API.pdb
 C:\Users\isaac.orah\Documents\GitHub\Reactivities\API\obj\Debug\net5.0\API.csproj.CopyComplete
 C:\Users\isaac.orah\Documents\GitHub\Reactivities\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\isaac.orah\Documents\GitHub\Reactivities\API\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\isaac.orah\Documents\GitHub\Reactivities\API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\isaac.orah\Documents\GitHub\Reactivities\API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\isaac.orah\Documents\GitHub\Reactivities\API\obj\Debug\net5.0\refint\API.dll

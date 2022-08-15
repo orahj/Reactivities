@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "nkRXgPxxuhkyyZjP6jdyS2qoszPRL+1NYAMOWgp6wQZB5bqb97d29RwiCaZurGMu5w1Z/Hn932WjOYa2Zc97Ng==",
+  "dgSpecHash": "+74k5SEXZ7XDoOivBL4E4ED+VXWEJKfnptfzXpVvRfU4+gvuurvPowx+KvVKNyDJUCdjKn6wciI0plOwddaPCg==",
   "success": true,
   "projectFilePath": "C:\\Users\\isaac.orah\\Documents\\GitHub\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\isaac.orah\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\isaac.orah\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\isaac.orah\\.nuget\\packages\\fluentvalidation\\9.5.4\\fluentvalidation.9.5.4.nupkg.sha512",
+    "C:\\Users\\isaac.orah\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.4\\fluentvalidation.aspnetcore.9.5.4.nupkg.sha512",
+    "C:\\Users\\isaac.orah\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.4\\fluentvalidation.dependencyinjectionextensions.9.5.4.nupkg.sha512",
     "C:\\Users\\isaac.orah\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\isaac.orah\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\isaac.orah\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
